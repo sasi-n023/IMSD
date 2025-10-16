@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+ <head>
+         <title> Example for profile links </title>
+</head>
+<body>
+<h1>My Profile </h1><br>
+<a href=”https://www.linkedin.com.in/nb-sasi” target=”_blank”>
+<img src="profile.jpg" width="25%" height="25%">
+</a><br>
+<h1> My Friend Profile</h1><br>
+<a href=”https://www.linkedin.com.in/nb-manu” target=”_blank”>
+<img src="profile2.jpg" width="25%" height="25%"></a>
+</body>
+</html>
